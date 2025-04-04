@@ -29,10 +29,10 @@ The AI uses the **Minimax algorithm** with **Alpha-Beta pruning** to make the be
 ## 🎮 How to Play
 
 1. Clone this repo:
-   ```bash
-   https://github.com/Yashsaini25/TicTacToe.git
-   cd TicTacToe
-   ```
+  ```bash
+  https://github.com/Yashsaini25/TicTacToe.git
+  cd TicTacToe
+  ```
 
 2.Compile the code:
   ```bash
