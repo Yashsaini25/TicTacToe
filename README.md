@@ -30,7 +30,7 @@ The AI uses the **Minimax algorithm** with **Alpha-Beta pruning** to make the be
 
 1. Clone this repo:
   ```bash
-  https://github.com/Yashsaini25/TicTacToe.git
+  git clone https://github.com/Yashsaini25/TicTacToe.git
   cd TicTacToe
   ```
 
