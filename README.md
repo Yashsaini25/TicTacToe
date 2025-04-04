@@ -30,23 +30,23 @@ The AI uses the **Minimax algorithm** with **Alpha-Beta pruning** to make the be
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-ai.git
-   cd tic-tac-toe-ai
+   https://github.com/Yashsaini25/TicTacToe.git
+   cd TicTacToe
    ```
 
 2.Compile the code:
   ```bash
-  g++ tictactoe.cpp -o tictactoe
+  g++ TicTacToe.cpp -o TicTacToe
   ```
 
 3.Run the game
   ```bash
-  ./tictactoe
+  ./TicTacToe
   ```
 
 4.Follow the prompts and enter your move (1-9) when asked.
 
-#Preview
+##Preview
  X | O | X
 ---+---+---
  O | X |  
