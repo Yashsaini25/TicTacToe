@@ -48,10 +48,15 @@ The AI uses the **Minimax algorithm** with **Alpha-Beta pruning** to make the be
 
 ## Preview
  X | O | X
+
 ---+---+---
+
  O | X |  
+ 
 ---+---+---
+
  X | O | O
+
 
 You win!
 
