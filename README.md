@@ -46,18 +46,6 @@ The AI uses the **Minimax algorithm** with **Alpha-Beta pruning** to make the be
 
 4.Follow the prompts and enter your move (1-9) when asked.
 
-## Preview
- X  |  O  |  X
- 
----+---+---
 
- O  |  X  |  
- 
----+---+---
-
- X  |  O  |  O
- 
-
-You win!
 
 
